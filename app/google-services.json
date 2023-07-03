@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737350655544",
+    "project_id": "mychess-1e587",
+    "storage_bucket": "mychess-1e587.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737350655544:android:fda354b8c39f624e1f10cd",
+        "android_client_info": {
+          "package_name": "com.tienquanev7.mychess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737350655544-ur6heb205b903igrfoub52t68p008gq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRT4ps8nc8qimXKMscBO9SQ-nBV_xscDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737350655544-ur6heb205b903igrfoub52t68p008gq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
